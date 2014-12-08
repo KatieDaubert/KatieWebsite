@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Katie Daubert</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="style.css">
+
+
+<style>
+#mainContent {
+ 
+ 
+}
+#content-1 {
+    float:left;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: .5em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white ;
+
+}
+#content-2-1 {
+    float:left;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: .5em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+}
+#content-2-2 {
+    float:left;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: .5em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+
+}
+body {
+	color: black;
+	text-align: center;
+	display: inline-block;
+	padding-left: 2em;
+	background-image: url("seamless-background.jpg");
+	background-color: #cccccc;
+}
+
+}
+</style>
+</head>
+<body>
+<div id="mainContent" class="body">
+	<div id="heading">
+		<h1>Katie Daubert</h1>
+	</div>
+</div>
+	<div id="content-1" >
+		<a href="file://localhost/Users/katiedaubert/Documents/Github/KatieWebsite/websiteabout.html"><font color="000000"><h1><b>About Katie</b></h1></font>
+		<img src="aboutme.jpg" alt="HTML5 Icon" width="370" height="350"></a></a>
+	</div>
+	<div id="content-2-1" >
+	<a href="file://localhost/Users/katiedaubert/Documents/Github/KatieWebsite/websiteblog.html"><font color="000000"><h1><b>Blog</b></h1></font>
+		<img src="IMG_5803.JPG" alt="HTML5 Icon" width="370" height="350"></a>
+	</div>
+	<div id="content-2-2" >
+	<a href="file://localhost/Users/katiedaubert/Documents/Github/KatieWebsite/websiteprojects.html"><font color="000000"><h1><b>Projects</b></h1></font>
+		<img src="projects.png" alt="HTML5 Icon" width="350" height="350"></a>
+	</div>
+</div>
+
+
+
+</body>
+</html>
