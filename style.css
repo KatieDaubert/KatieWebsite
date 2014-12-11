@@ -12,12 +12,280 @@ font-family: 'Calligraffitti', cursive;
  color: white;
  border-radius: .5em;
  padding-left: .5em;
- margin: 1em;
+ padding-right: .5em;
+ margin: 1%;
  font-size:40px;
  text-align: center;
  font-family: 'Calligraffitti', cursive;
- font-size: 2.5em;
  border-style: inset;
+ border-style: solid;
+   border-color: DarkSlateBlue;
+   display: block;
+}
+
+#tabContainer {
+  width: 33%;
+  padding-left: 3em;
+  padding-bottom: .5em;
+  text-align: center;
+  margin-left: 30%;
+  border-style: inherit;
+   text-decoration: bold;
+  
+  
+}
+
+#tabContainer a {
+ width: 20%;
+ background-color: white;
+ color: DarkSlateBlue;
+ text-decoration: bold;
+ border-radius: 60%;
+ margin: 1%;
+ padding: 2%;
+ text-align: center;
+ display: inline-block;
+ border-style: solid;
+   border-color: DarkSlateBlue;
+}
+
+#tabContainer a:hover {
+ color: white;
+}
+
+#content-1 {
+    float:right;
+    width:60%;
+    background: white;
+    border-radius: 1em;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-right: 1em;
+    font-size: 13pt;
+
+
+}
+#content-2-1 {
+    float:left;
+    width:30%;
+    background: white;
+    border-radius: 1em;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-right: 1em;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+    
+
+}
+
+#testDiv1 {
+  float:left;
+    width:29%;
+    padding-left:10px;
+    background: white;
+    text-align: left;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+}
+#testDiv2 {
+ float:left;
+    width:29%;
+    padding-left:10px;
+    background: white;
+    text-align: left;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+ 
+
+}
+#testDiv3 {
+    float:right;
+    width:29%;
+    padding-left:10px;
+    background: white;
+    text-align: left;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+
+ 
+	
+}
+
+
+
+
+
+
+
+
+ #content-2 {
+    float:left;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: .5em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+
+}
+#content-3-1 {
+    float:right;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: .5em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+    border-radius: 1em;
+}
+#content-3-2 {
+    float:right;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: .5em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+ }
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#content-3 {
+    float:right;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    border-radius: 1em;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-right: 10px;
+    padding-top:1em;
+    padding-bottom: .5em;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+
+}
+#content-4-1 {
+    float:left;
+    width:800px;
+    padding-left:10px;
+    background: white;
+    border-radius: 1em;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: 1em;
+    padding-right: 10px;
+    padding-top: 1em;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+ 
+	
+}
+
+
+
+
+
+
+
+
+#content-4 {
+   float:left;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+  
+
+}
+#content-5-1 {
+    float:right;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+ 
+}
+#content-5-2 {
+    float:right;
+    width:400px;
+    padding-left:10px;
+    background: white;
+    text-align: center;
+    padding-left: 1em;
+    margin: 1em;
+    padding-bottom: .5em;
+    padding-right: .5em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+
+
 }
 
 

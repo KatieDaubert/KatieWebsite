@@ -20,6 +20,7 @@
   margin-left: 30%;
   border-style: inherit;
   
+  
 }
 
 #tabContainer a {
@@ -110,7 +111,7 @@ body {
 	text-align: center;
 	display: inline-block;
 	padding-left: 2em;
-	background-image: url("seamless-background.jpg");
+	background-image: url("");
 	background-color: #cccccc;
 }
 }
@@ -132,13 +133,7 @@ body {
 		<img src="aboutme.jpg" alt="HTML5 Icon" width="270" height="250"></a>
 	</div>
 	<div id="content-2-1" >
-		<p>This is testDiv1. It wants to be a column. It has dreamed up being a column it's whole life. We can make that dream happen. Then we can dash it horribly, then we can make it happen again. It will be an emotional roller coaster for the div, but we will learn a lot along the way.
-
-You can use the firefox inspector to get a better sense of how the size and position of the divs are changing as the settings change. Go to the firefox menu and go to Developer->Inspector and hover over the divs.This is testDiv1. It wants to be a column. It has dreamed up being a column it's whole life. We can make that dream happen. Then we can dash it horribly, then we can make it happen again. It will be an emotional roller coaster for the div, but we will learn a lot along the way.
-
-You can use the firefox inspector to get a better sense of how the size and position of the divs are changing as the settings change. Go to the firefox menu and go to Developer->Inspector and hover over the divs.This is testDiv1. It wants to be a column. It has dreamed up being a column it's whole life. We can make that dream happen. Then we can dash it horribly, then we can make it happen again. It will be an emotional roller coaster for the div, but we will learn a lot along the way.
-
-You can use the firefox inspector to get a better sense of how the size and position of the divs are changing as the settings change. Go to the firefox menu and go to Developer->Inspector and hover over the divs.</p>
+		<p>When growing up in central Pennsylvania, family always described me as "the kid who leave home to take on the big city". And following my graduation from high school, I did just that. My last four years here in Philadelphia have allowed me to reach out of my comfort zone and experience moments in my life that I would have never dreamed of. I was able to indulge in my passions for writing, reading, traveling, and music. Although I loved every English and Religous Studies class I took for my majors, my dream job lies somewhere within the music industry. Over the years I've taught myself and developed digital marketing and strategy skills that have allowed me to be involved with some of the world's biggest music festivals and artists.</p>
 	</div>
 	
 </div>
@@ -148,7 +143,7 @@ You can use the firefox inspector to get a better sense of how the size and posi
     <p><b><i>Summer Intern, </i>iRadioPhilly</b><p>
 	<ul>
 		<li>Promoted for iRadioPhilly and sponsored events on air and through social media</li>
-		<li>Curated iRadioPhilly’s dance music radio station</li>
+		<li>Curated iRadioPhilly's dance music radio station</li>
 		<li>Authored show reviews for official iRadioPhilly website</li>
 	</ul>
  <p><b><i>Promotor, Social Media Consultant, </i>1851 Records</b></p>
@@ -169,32 +164,32 @@ You can use the firefox inspector to get a better sense of how the size and posi
    <h2><center>Leadership Experience</center></h2>
     <p><b><i>Founder, </i>Phi Sigma Sigma, Saint Joseph's University</b><p>
 	<ul>
-		<li>Installed the Iota Rho Chapter at Saint Joseph’s University</li>
+		<li>Installed the Iota Rho Chapter at Saint Joseph's University</li>
 		<li>Developed Chapter administration and management</li>
 	</ul>
  <p><b><i>Brand Ambassador, </i>Life in Color</b></p>
  	<ul>
 		<li>Promoted on social networks for festivals and events such as TomorrowWorld, Mysteryland USA, and Spring Awakening Music Festival</li>	
 	</ul>
-	<p><b><i>Summer Scholar, </i>Saint Joseph’s University English Department</b></p>
+	<p><b><i>Summer Scholar, </i>Saint Joseph's University English Department</b></p>
  	<ul>
 		<li>Assisted in scholarly work under the SJU English Department Chair with an online virtual archive of marked and annotated books from the library of American author Herman Melville</li>
 	</ul>
- <p><b><i>Special Events Committee Member, </i>Phi Sigma Pi National Honors Fraternity, Saint Joseph’s University</b></p>
+ <p><b><i>Special Events Committee Member, </i>Phi Sigma Pi National Honors Fraternity, Saint Joseph's University</b></p>
  	<ul>
 		<li>Planned and coordinated fraternity events including formals, date nights, and risk management events</li>
 	</ul>
    </div>
     <div id="testDiv3">
     <h2><center>Other Skills and Activities</center></h2>
-    <p><b>Awards and Achievements: </b>Dean’s List, Academic Achievement Award, Summer Scholars<p>
+    <p><b>Awards and Achievements: </b>Dean's List, Academic Achievement Award, Summer Scholars<p>
     <p><b>Computer Skills: </b>HTML, CSS, Adobe Creative Pro, Photoshop, social media, Microsoft Office<p>
     <p><b>Activities: </b><p>
     <ul>
-	<li>Hawk Newspaper – Arts and Entertainment co-writer for SJU’s primary news outlet (Sept 2011-Present)</li>
-	<li>SJU Writers’ Block Group – Created and presided over the official writing group of SJU (Sept 2012-May 2013)</li>
-	<li>SJU Women’s Rugby – played on D2 team in Mid Atlantic Rugby Conference (Sept 2013-Nov 2014)</li>
-	<li>Steez Promo – Social media and street promotion for Steez events such as Moonrise Festival (Aug 2014-Present)</li>
+	<li>Hawk Newspaper - Arts and Entertainment co-writer for SJU's primary news outlet (Sept 2011-Present)</li>
+	<li>SJU Writers' Block Group - Created and presided over the official writing group of SJU (Sept 2012-May 2013)</li>
+	<li>SJU Women's Rugby - played on D2 team in Mid Atlantic Rugby Conference (Sept 2013-Nov 2014)</li>
+	<li>Steez Promo - Social media and street promotion for Steez events such as Moonrise Festival (Aug 2014-Present)</li>
 	</ul>
    </div>
 </div>

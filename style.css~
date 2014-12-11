@@ -3,6 +3,10 @@
   overflow: auto;
 }
 
+#maincontent {
+font-family: 'Calligraffitti', cursive;
+}
+
 #heading {
  background-color: DarkSlateBlue;
  color: white;
