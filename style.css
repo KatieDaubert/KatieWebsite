@@ -54,8 +54,8 @@ font-family: 'Calligraffitti', cursive;
 }
 
 #content-1 {
-    float:right;
-    width:60%;
+    float:left;
+    width:59%;
     background: white;
     border-radius: 1em;
     border-style: solid;
@@ -64,13 +64,13 @@ font-family: 'Calligraffitti', cursive;
     padding-left: 1em;
     margin: 1em;
     padding-right: 1em;
-    font-size: 13pt;
+    font-size: 12pt;
 
 
 }
 #content-2-1 {
-    float:left;
-    width:30%;
+    float:right;
+    width:29%;
     background: white;
     border-radius: 1em;
     text-align: center;
@@ -84,51 +84,54 @@ font-family: 'Calligraffitti', cursive;
 }
 
 #testDiv1 {
-  float:left;
+   float:left;
     width:29%;
-    padding-left:10px;
+    padding-left:.5em;
     background: white;
     text-align: left;
     padding-left: 1em;
     margin: 1em;
     padding-bottom: .5em;
-    padding-right: .5em;
-    background-color: white ;
-    border-style: solid;
-    border-color: DarkSlateBlue;
-     border-radius: 1em;
-}
-#testDiv2 {
- float:left;
-    width:29%;
-    padding-left:10px;
-    background: white;
-    text-align: left;
-    padding-left: 1em;
-    margin: 1em;
-    padding-bottom: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
      border-radius: 1em;
+
+}
+#testDiv2 {
+   float:left;
+    width:29%;
+    padding-left:.5em;
+    background: white;
+    text-align: left;
+    padding-left: 1em;
+    margin: .5em;
+    padding-bottom: .5em;
+    padding-right: 1em;
+    background-color: white  ;
+    border-style: solid;
+    border-color: DarkSlateBlue;
+     border-radius: 1em;
+
  
 
 }
 #testDiv3 {
-    float:right;
+   float:right;
     width:29%;
-    padding-left:10px;
+    padding-left:.5em;
     background: white;
     text-align: left;
     padding-left: 1em;
-    margin: 1em;
+    margin: .5em;
     padding-bottom: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
      border-radius: 1em;
+
 
  
 	
@@ -142,46 +145,46 @@ font-family: 'Calligraffitti', cursive;
 
 
  #content-2 {
-    float:left;
-    width:400px;
-    padding-left:10px;
+     float:left;
+    width:29%;
+    padding-left:.5em;
     background: white;
     text-align: center;
-    padding-left: .5em;
+    padding-left: 1em;
     margin: 1em;
     padding-bottom: .5em;
-    padding-right: .5em;
-    background-color: white ;
+    padding-right: 1em;
+    background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
      border-radius: 1em;
 
 }
 #content-3-1 {
-    float:right;
-    width:400px;
-    padding-left:10px;
+ float:left;
+    width:29%;
+    padding-left:.5em;
     background: white;
     text-align: center;
-    padding-left: .5em;
-    margin: 1em;
+    padding-left: 1em;
+    margin: .5em;
     padding-bottom: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
-    border-radius: 1em;
+     border-radius: 1em;
 }
 #content-3-2 {
-    float:right;
-    width:400px;
-    padding-left:10px;
+     float:right;
+    width:29%;
+    padding-left:.5em;
     background: white;
     text-align: center;
-    padding-left: .5em;
-    margin: 1em;
+    padding-left: 1em;
+    margin: .5em;
     padding-bottom: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
@@ -198,14 +201,14 @@ font-family: 'Calligraffitti', cursive;
  
 #content-3 {
     float:right;
-    width:400px;
-    padding-left:10px;
+    width:29%;
+    padding-left:1em;
     background: white;
     border-radius: 1em;
     text-align: center;
     padding-left: 1em;
     margin: 1em;
-    padding-right: 10px;
+    padding-right: 1em;
     padding-top:1em;
     padding-bottom: .5em;
     border-style: solid;
@@ -214,15 +217,15 @@ font-family: 'Calligraffitti', cursive;
 }
 #content-4-1 {
     float:left;
-    width:800px;
-    padding-left:10px;
+    width:59%;
+    padding-left:1em;
     background: white;
     border-radius: 1em;
     text-align: center;
     padding-left: 1em;
     margin: 1em;
     padding-bottom: 1em;
-    padding-right: 10px;
+    padding-right: 1em;
     padding-top: 1em;
     border-style: solid;
     border-color: DarkSlateBlue;
@@ -238,32 +241,31 @@ font-family: 'Calligraffitti', cursive;
 
 
 #content-4 {
-   float:left;
-    width:400px;
-    padding-left:10px;
+ float:left;
+    width:29%;
+    padding-left:.5em;
     background: white;
     text-align: center;
     padding-left: 1em;
-    margin: 1em;
+    margin: .5em;
     padding-bottom: .5em;
-    padding-right: .5em;
-    background-color: white ;
+    padding-right: 1em;
+    background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
      border-radius: 1em;
-  
 
 }
 #content-5-1 {
-    float:right;
-    width:400px;
-    padding-left:10px;
+   float:left;
+    width:29%;
+    padding-left:.5em;
     background: white;
     text-align: center;
     padding-left: 1em;
-    margin: 1em;
+    margin: .5em;
     padding-bottom: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
@@ -271,15 +273,15 @@ font-family: 'Calligraffitti', cursive;
  
 }
 #content-5-2 {
-    float:right;
-    width:400px;
-    padding-left:10px;
+      float:right;
+    width:29%;
+    padding-left:.5em;
     background: white;
     text-align: center;
     padding-left: 1em;
-    margin: 1em;
+    margin: .5em;
     padding-bottom: .5em;
-    padding-right: .5em;
+    padding-right: 1em;
     background-color: white  ;
     border-style: solid;
     border-color: DarkSlateBlue;
